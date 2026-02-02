@@ -91,7 +91,7 @@ Meet the Team
 ![Equipe-Desenvolvimento](https://github.com/AtomicRocketEntertainment/We-Got-Hacked/blob/main/Imagens/WGH%20-%20Equipe%20Desenvolvimento3.0.png)
 |------------|
 | [Bernardo Klein](https://www.linkedin.com/in/bernardo-klein-a393262b7/) (2D and 3D Artist) |
-| [Frank] [www.google.com] (2D Artist)
+| [Frank](https://www.google.com) (2D Artist) |
 | [Igor Flores](https://www.linkedin.com/in/igorflores96/) (Developer) |
 | [Jairo Augusto](https://www.artstation.com/jairoaugusto13) (Writer) |
 | [Luciano Ignaczak](https://www.linkedin.com/in/luciano-ignaczak/) (Academic Coordinator) |
