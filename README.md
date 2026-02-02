@@ -1,4 +1,5 @@
-FOR OUR ENGLISH PLAYERS: This is the english repository of the We Got Hacked game. 
+FOR OUR ENGLISH PLAYERS: 
+This is the english repository of the We Got Hacked game. 
 If you're looking for the source code or the portuguese repository, please click [here](https://github.com/AtomicRocketEntertainment/We-Got-Hacked/tree/main).
 Currently, the game does not have an English translation, but we plan to add one in the future.
 
