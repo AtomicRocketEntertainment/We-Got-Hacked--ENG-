@@ -1,10 +1,10 @@
 FOR OUR ENGLISH PLAYERS: 
 This is the english repository of the We Got Hacked game. 
 If you're looking for the source code or the portuguese repository, please click [here](https://github.com/AtomicRocketEntertainment/We-Got-Hacked/tree/main).
-Currently, the game does not have an English translation, but we plan to add one in the future.
+Currently, the game does not have an English translation, but we plan to add it in the future.
 
 ![logo-we-got-hacked](https://github.com/AtomicRocketEntertainment/We-Got-Hacked/blob/main/Imagens/logo-we-got-hacked.png)
-We Got Hacked é um jogo de simulação e treinamento desenvolvido pela GT-IR, Grupo de Trabalho do Programa Hackers do Bem e financiado pela [RNP](https://www.rnp.br/) (Rede Nacional de Ensino e Pesquisa). Para o desenvolvimento do jogo, o GT-IR atua em parceria com o [Atomic Rocket Entertainment](https://br.linkedin.com/company/atomic-rocket-entertainment), estúdio experimental de jogos da UNISINOS. O projeto é voltado para estudantes e profissionais de cibersegurança, o jogo foi dividido em três capítulos que simulam situações reais e desafiadoras da área, como ataques hackers, vazamentos de dados e outros incidentes críticos. O objetivo é proporcionar uma experiência prática e imersiva, ajudando os jogadores a desenvolverem habilidades essenciais para lidar com ameaças digitais..
+We Got Hacked is a simulation and training game developed by GT-IR, the Working Group of the Hackers do Bem Program, and funded by [RNP](https://www.rnp.br/) (Rede Nacional de Ensino e Pesquisa [National Education and Research Network]). For the development of the game, GT-IR works in partnership with [Atomic Rocket Entertainment](https://br.linkedin.com/company/atomic-rocket-entertainment), Unisinos university experimental game studio. The project is aimed at cybersecurity students and professionals. The game is divided into three chapters that simulate real and challenging situations in the field, such as hacker attacks, data breaches, and other critical incidents. The goal is to provide a practical and immersive experience, helping players develop essential skills to deal with digital threats.
 
 ![Petrolinhos](https://github.com/AtomicRocketEntertainment/We-Got-Hacked/blob/main/Imagens/Petrolinhos.png)
 
