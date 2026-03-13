@@ -88,16 +88,18 @@ We Got Hacked began production in January 2025, with completion planned for Dece
 
 Meet the Team 
 -------
-![Equipe-Desenvolvimento](https://github.com/AtomicRocketEntertainment/We-Got-Hacked/blob/main/Imagens/WGH%20-%20Equipe%20Desenvolvimento3.0.png)
-|------------|
-| [Bernardo Klein](https://www.linkedin.com/in/bernardo-klein-a393262b7/) (2D and 3D Artist) |
-| [Frank Vega](https://www.linkedin.com/in/frank-vega-24a721282/) (2D and 3D Artist) |
-| [Igor Flores](https://www.linkedin.com/in/igorflores96/) (Developer) |
-| [Jairo Augusto](https://www.artstation.com/jairoaugusto13) (Writer) |
-| [Luciano Ignaczak](https://www.linkedin.com/in/luciano-ignaczak/) (Academic Coordinator) |
-| [Mauricio Gehling](https://www.linkedin.com/in/mbg3dmind/) (Development Coordinator) |
-| [Rodrigo Steigleder](https://www.linkedin.com/in/rodrigosteigleder/) (Security Analyst) |
-| [Tiago Gazzola](https://tiagogazzola.github.io/Tiago-Gazzola-Portfolio/) (Game Designer and Producer) |
+![Equipe-Desenvolvimento](https://github.com/AtomicRocketEntertainment/We-Got-Hacked/blob/main/Imagens/Membros%20Atomic%20Rocket%20(English).png)
+| Name | Role | Participation Period |
+|----|----|----|
+| [Bernardo Klein](https://www.linkedin.com/in/bernardo-klein-a393262b7/) | 2D Artist | 01/2025 - 12/2025 | 
+| [Frank V. Vega](https://www.linkedin.com/in/frank-vega-24a721282/) | 2D and 3D Artist | 02/2026 - Present |
+| [Igor Flores](https://www.linkedin.com/in/igorflores96/) | Developer  | 01/2025 - 02/2026 |
+| [Jairo A. de C. Augusto](https://www.artstation.com/jairoaugusto13) | Writer  | 01/2025 - Present |
+| [Luciano B. Ignaczak](https://www.linkedin.com/in/luciano-ignaczak/) | Academic Coordinator | 01/2025 - Present |
+| [Mauricio B. Gehling](https://www.linkedin.com/in/mbg3dmind/) | Development Coordinator | 01/2025 - Present |
+| [Nicolay Hoff](google.com) | Developer  | 04/2026 - Present |
+| [Rodrigo Steigleder](https://www.linkedin.com/in/rodrigosteigleder/) | Security Analyst | 01/2025 - Present |
+| [Tiago U. Gazzola](https://www.linkedin.com/in/tiago-gazzola/) | Game Designer | 01/2025 - Present |
 
 ![logo-atomic](https://github.com/AtomicRocketEntertainment/We-Got-Hacked/blob/main/Imagens/logo-atomic.png)
 ![logo-rnp](https://github.com/AtomicRocketEntertainment/We-Got-Hacked/blob/main/Imagens/logo-rnp-branco.png)
